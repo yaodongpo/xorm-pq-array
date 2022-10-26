@@ -1,4 +1,4 @@
-## xorm兼容postgresql得到两种数据类型补充
+## xorm兼容postgresql的两种数据类型补充
 
 - BIGINT []
 - TEXT []
